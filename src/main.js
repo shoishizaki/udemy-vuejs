@@ -1,3 +1,4 @@
+// グローバル登録
 import Vue from 'vue'
 import App from './App.vue'
 import LikeNumber from "./LikeNumber.vue";
